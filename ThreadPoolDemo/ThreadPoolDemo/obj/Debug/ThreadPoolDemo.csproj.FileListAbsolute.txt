@@ -1,0 +1,5 @@
+D:\GitRepo\Threading\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.exe.config
+D:\GitRepo\Threading\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.exe
+D:\GitRepo\Threading\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.pdb
+D:\GitRepo\Threading\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.exe
+D:\GitRepo\Threading\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.pdb
