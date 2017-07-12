@@ -1,0 +1,5 @@
+D:\GitRepo\Threading\SingleInstance\SingleInstance\bin\Debug\SingleInstance.exe.config
+D:\GitRepo\Threading\SingleInstance\SingleInstance\bin\Debug\SingleInstance.exe
+D:\GitRepo\Threading\SingleInstance\SingleInstance\bin\Debug\SingleInstance.pdb
+D:\GitRepo\Threading\SingleInstance\SingleInstance\obj\Debug\SingleInstance.exe
+D:\GitRepo\Threading\SingleInstance\SingleInstance\obj\Debug\SingleInstance.pdb
